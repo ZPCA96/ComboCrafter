@@ -15,8 +15,7 @@ cd ComboCrafter
 
 2. Build:
 
-```
-bash
+```bash
 go build .
 ```
 
