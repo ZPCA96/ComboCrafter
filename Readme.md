@@ -9,7 +9,7 @@
 1. Clone repo:
 
 ```bash
-git clone https://github.com/yourusername/maskgen.git
+git clone https://github.com/ZPCA96/ComboCrafter
 cd ComboCrafter
 ```
 
