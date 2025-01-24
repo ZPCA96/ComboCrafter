@@ -1,6 +1,6 @@
 # ComboCrafter
 
-**ComboCrafter** — hashcat-slyle mask wordlist generator.
+**ComboCrafter** — hashcat-slyle mask wordlist generator. Part of code stealed from [amass](https://github.com/owasp-amass/amass/commit/164bab3db1f464679f64fcdd93176bdb7f08d7c9).
 
 ---
 
