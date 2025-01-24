@@ -59,8 +59,7 @@ word2
 
 Run:
 
-```
-bash
+```bash
 ./ComboCrafter -m masks.txt -w wordlist.txt -o output.txt
 ```
 
